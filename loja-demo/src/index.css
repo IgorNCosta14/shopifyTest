@@ -1,7 +1,12 @@
+@import url('./styles/sections/header.scss');
+@import url('./styles/sections/tree-rows-section.scss');
+@import url('./styles/theme-online/old-theme.scss');
+@import url('./styles/vendors/slick.scss');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-:root {
+/* :root {
     background-color: white;
-}
+} */
