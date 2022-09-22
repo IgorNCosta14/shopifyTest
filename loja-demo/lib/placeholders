@@ -1,0 +1,25 @@
+const PLACEHOLDERS = {
+    HEROS: [{
+        heading: {value: 'test'},
+        byline: {
+            value: 'The shopify test'
+        },
+        cta: {value: 'Shop Now =>'},
+        handle: 'freestyle',
+        spread: {
+            reference: {
+                mediaContentType: 'IAMGE',
+                alt: 'planeta',
+                previewIamge: {
+                    url: 'https://imgur.com/RBNXzZj.png'
+                },
+                id: 'gid://shopify/MediaImage/29259478466616',
+                image: {
+                    url: 'https://imgur.com/RBNXzZj.png',
+                    width: 2500,
+                    height: 2500,
+                }
+            }
+        }
+    }]
+}

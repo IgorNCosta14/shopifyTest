@@ -33,14 +33,14 @@ export function Header() {
                         <div className="cartInfoWrapper"><span className="title"><span id="MostraTextoXml1">Resumo do
                                 Carrinho</span></span>
                             <ul className="cart-info">
-                            <li className="amount-products"><strong><span id="MostraTextoXml2">Total de Produtos:</span></strong> <em
-                                className="amount-products-em">2</em></li>
-                            <li className="amount-items"><strong><span id="MostraTextoXml3">Itens:</span></strong> <em
-                                className="amount-items-em">2</em></li>
-                            <li className="amount-kits"><strong><span id="MostraTextoXml4">Total de Kits:</span></strong> <em
-                                className="amount-kits-em"></em></li>
-                            <li className="total-cart"><strong><span id="MostraTextoXml5">Valor Total:</span></strong> <em
-                                className="total-cart-em">R$ 396,17</em></li>
+                                <li className="amount-products"><strong><span id="MostraTextoXml2">Total de Produtos:</span></strong> <em
+                                    className="amount-products-em">2</em></li>
+                                <li className="amount-items"><strong><span id="MostraTextoXml3">Itens:</span></strong> <em
+                                    className="amount-items-em">2</em></li>
+                                <li className="amount-kits"><strong><span id="MostraTextoXml4">Total de Kits:</span></strong> <em
+                                    className="amount-kits-em"></em></li>
+                                <li className="total-cart"><strong><span id="MostraTextoXml5">Valor Total:</span></strong> <em
+                                    className="total-cart-em">R$ 396,17</em></li>
                             </ul>
                         </div>
                         </div>
@@ -57,8 +57,8 @@ export function Header() {
                     <div className="menu-item-deco-line"></div>
                 </a></div>
                 <div className="menu-button w-nav-button"><img
-                    src="data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' x='0px' y='0px' width='73.168px' height='73.168px' viewBox='0 0 73.168 73.168' style='enable-background:new 0 0 73.168 73.168;' xml:space='preserve'%3e%3cg%3e%3cg id='Navigation'%3e%3cg%3e%3cpath d='M4.242,14.425h64.684c2.344,0,4.242-1.933,4.242-4.324c0-2.385-1.898-4.325-4.242-4.325H4.242 C1.898,5.776,0,7.716,0,10.101C0,12.493,1.898,14.425,4.242,14.425z M68.926,32.259H4.242C1.898,32.259,0,34.2,0,36.584 c0,2.393,1.898,4.325,4.242,4.325h64.684c2.344,0,4.242-1.933,4.242-4.325C73.168,34.2,71.27,32.259,68.926,32.259z M68.926,58.742H4.242C1.898,58.742,0,60.683,0,63.067c0,2.393,1.898,4.325,4.242,4.325h64.684c2.344,0,4.242-1.935,4.242-4.325 C73.168,60.683,71.27,58.742,68.926,58.742z'%3e%3c/path%3e%3c/g%3e%3c/g%3e%3c/g%3e%3c/svg%3e"
-                    width="20" alt="" className="menu-icon"/></div>
+        src="data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' x='0px' y='0px' width='73.168px' height='73.168px' viewBox='0 0 73.168 73.168' style='enable-background:new 0 0 73.168 73.168;' xml:space='preserve'%3e%3cg%3e%3cg id='Navigation'%3e%3cg%3e%3cpath d='M4.242,14.425h64.684c2.344,0,4.242-1.933,4.242-4.324c0-2.385-1.898-4.325-4.242-4.325H4.242 C1.898,5.776,0,7.716,0,10.101C0,12.493,1.898,14.425,4.242,14.425z M68.926,32.259H4.242C1.898,32.259,0,34.2,0,36.584 c0,2.393,1.898,4.325,4.242,4.325h64.684c2.344,0,4.242-1.933,4.242-4.325C73.168,34.2,71.27,32.259,68.926,32.259z M68.926,58.742H4.242C1.898,58.742,0,60.683,0,63.067c0,2.393,1.898,4.325,4.242,4.325h64.684c2.344,0,4.242-1.935,4.242-4.325 C73.168,60.683,71.27,58.742,68.926,58.742z'%3e%3c/path%3e%3c/g%3e%3c/g%3e%3c/g%3e%3c/svg%3e"
+        width="20" alt="" className="menu-icon"/></div>
                 <div className="w-nav-overlay"></div>
             </div>
         </header>
