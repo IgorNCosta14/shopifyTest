@@ -1,7 +1,7 @@
 export function SlideShowBy() {
     return (
-        <div >
-            <img className="imageRose" src="https://imgur.com/N6Eu3AF.png" />
+        <div className="slideshow_slide">
+            <img className="imageRose" src="https://imgur.com/sA2ciEi.png" />
         </div>
         
     )
